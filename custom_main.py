@@ -58,7 +58,7 @@ class CustomDataset(utils.Dataset):
         dataset_dir: Root directory of the dataset.
         subset: Subset to load: train or val
         """
-        # Add classes. We have only one class to add.
+        # Add classes. .
         self.add_class("object", 1, "0")
         self.add_class("object", 2, "1")
         self.add_class("object", 3, "2")
