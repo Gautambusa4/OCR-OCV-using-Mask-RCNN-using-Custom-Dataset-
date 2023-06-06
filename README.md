@@ -10,7 +10,7 @@ Download mrcnn folder from this repository: https://github.com/matterport/Mask_R
 
 Download coco weights : https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 
-Now on commant prompt chabge the directory path where the mask-rcnn is present and in custon.py file add all the classes you want to use or present in your dataset.
-After running requirement.txt file run python custom.py and training will be started with a logs folder created in ehich weights will be saved.
+Now on commant prompt change the directory path where the mask-rcnn is present and in custom.py file add all the classes you want to use or present in your dataset.
+After running requirement.txt file run python custom.py and training will be started with a logs folder created in which weights will be saved.
 
 Using test file you can check you model.
