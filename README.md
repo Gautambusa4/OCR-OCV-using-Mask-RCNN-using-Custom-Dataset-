@@ -1,4 +1,4 @@
-# OCR-using-Mask-RCNN-using-Custom-Dataset
+# OCR-OCV using-Mask-RCNN-using-Custom-Dataset
 Create folder : Dataset
 
 In Dataset folder create 2 folders : train and val Put training images in train folder and validation images in Val folder.
